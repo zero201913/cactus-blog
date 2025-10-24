@@ -1,5 +1,5 @@
 ---
-title: 技术
+title: Java编程语言
 date: 2025-10-21 12:00:00
 type: categories
 layout: categories

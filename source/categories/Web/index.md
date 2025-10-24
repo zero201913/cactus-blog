@@ -1,13 +1,13 @@
 ---
-title: 生活方式
+title: Web技术
 date: 2025-10-21 12:00:00
 type: categories
 layout: categories
 ---
 
-# 生活方式
+# Web
 
-这里记录着我对生活的思考和实践，包括极简主义、晨间仪式、个人成长等话题。
+这里记录着关于前端技术栈的相关分享，包括 html + css + javascript 祖传三大件，还有新生的 Vue React Vite 等成体系的框架，还有相关的组件库。
 
 ## 关于这个分类
 
